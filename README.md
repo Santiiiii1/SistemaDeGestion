@@ -1,6 +1,6 @@
 Integrantes:
-Santino Vivas
-Benjamin Corina
+Santino Vivas,
+Benjamin Corina,
 Maximo Ordoñez
 
 Titulo del proyecto: por definir
