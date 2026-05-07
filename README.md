@@ -3,7 +3,7 @@ Santino Vivas,
 Benjamin Corina,
 Maximo Ordonez
 
-Titulo del proyecto: Sistema de Gestion de Frutas y Verduras
+Titulo del proyecto: por definir
 
 Fecha: 6/5/2026
 
