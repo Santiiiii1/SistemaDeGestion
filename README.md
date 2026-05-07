@@ -1,11 +1,14 @@
-Integrantes:
-Santino Vivas,
-Benjamin Corina,
-Maximo Ordonez
+# 👥 INTEGRANTES
 
-Titulo del proyecto: Sistema de Gestión 
+- ✨ **_SANTINO VIVAS_**
+- ✨ **_BENJAMIN CORINA_**
+- ✨ **_MAXIMO ORDONEZ_**
 
-Fecha: 6/5/2026
+## 📋 Titulo del proyecto
+**Sistema de Gestión** 
+
+## 📅 Fecha
+**6/5/2026**
 
 ## Como ejecutar
 
