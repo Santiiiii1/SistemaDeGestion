@@ -3,7 +3,7 @@ Santino Vivas,
 Benjamin Corina,
 Maximo Ordonez
 
-Titulo del proyecto: por definir
+Titulo del proyecto: Sistema de Gestión 
 
 Fecha: 6/5/2026
 
